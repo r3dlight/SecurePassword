@@ -1,0 +1,13 @@
+[package]
+name = "secure_password"
+version = "0.1.0"
+authors = ["Stephane Neveu <stephane.neveu@thalesgroup.com>"]
+
+[dependencies]
+nickel = "*"
+config = "*"
+lazy_static = "*"
+notify = "*"
+rust-crypto="*"
+rand="*"
+time="*"
